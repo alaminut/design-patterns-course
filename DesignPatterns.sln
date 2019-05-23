@@ -12,6 +12,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSegregation", "Int
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInversion", "DependencyInversion\DependencyInversion.csproj", "{B4BCF48C-CA4D-466B-86D5-BD651D2B8041}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Creational", "Creational", "{F2E6C0BD-823C-425D-AEAE-EC3423A5AF17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.csproj", "{41AA27DE-697A-431F-AB2D-72FAA53DCDF5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +27,7 @@ Global
 		{877AF149-823C-4A93-A7FA-719FEF5C096E} = {7519E781-94FA-4770-859A-6ECAAEF7463A}
 		{F0BA2B53-2028-4608-B012-706E14F503FF} = {7519E781-94FA-4770-859A-6ECAAEF7463A}
 		{B4BCF48C-CA4D-466B-86D5-BD651D2B8041} = {7519E781-94FA-4770-859A-6ECAAEF7463A}
+		{41AA27DE-697A-431F-AB2D-72FAA53DCDF5} = {F2E6C0BD-823C-425D-AEAE-EC3423A5AF17}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{0450CC3C-AB7B-4196-B0BC-1ABF3155EFE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -45,5 +50,9 @@ Global
 		{B4BCF48C-CA4D-466B-86D5-BD651D2B8041}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4BCF48C-CA4D-466B-86D5-BD651D2B8041}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4BCF48C-CA4D-466B-86D5-BD651D2B8041}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41AA27DE-697A-431F-AB2D-72FAA53DCDF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41AA27DE-697A-431F-AB2D-72FAA53DCDF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41AA27DE-697A-431F-AB2D-72FAA53DCDF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41AA27DE-697A-431F-AB2D-72FAA53DCDF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
