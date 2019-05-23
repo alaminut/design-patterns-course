@@ -1,0 +1,6 @@
+# Line-ending hatalarından korunmak için front end ile alakalı dosyaların LF -> CRLF dönüşümünü kapatıyoruz.
+*.js text eol=lf
+*.css text eol=lf
+*.scss text eol=lf
+*.sass text eol=lf
+*.jsx text eol=lf
