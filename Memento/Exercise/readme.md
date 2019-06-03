@@ -1,4 +1,4 @@
-#Memento Pattern Exercise
+# Memento Pattern Exercise
 
 A `TokenMachine` is in charge of keeping tokens. Each `Token` is a reference type with a single numerical value.
 The machine supports adding tokens, and when it does, it returns a memento representing the state of that system *at that given time*

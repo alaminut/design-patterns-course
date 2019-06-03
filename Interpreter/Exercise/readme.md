@@ -1,4 +1,4 @@
-#Interpreter Coding Exercise
+# Interpreter Coding Exercise
 
 You are asked to write an expression processor for simple numeric expressions with the following
 constraints.

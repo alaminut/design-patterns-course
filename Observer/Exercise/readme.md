@@ -1,4 +1,4 @@
-#Observer Pattern Exercise
+# Observer Pattern Exercise
 
 Imagine a game where one or more rats can attack a player. Each individual rat has an attack value of 1. However, rats attack
 as a swarm, so each rat's attack value is equal to the total number of rats in play.

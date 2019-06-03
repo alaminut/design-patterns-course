@@ -1,4 +1,4 @@
-#State Pattern Exercise
+# State Pattern Exercise
 
 A combination lock is a lock that opens after the right digits have been entered. A lock is pre-programmed
 with a combination and the user is expected to enter this combination to unlock the lock.
